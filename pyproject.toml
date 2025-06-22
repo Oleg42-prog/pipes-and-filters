@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pipes-and-filters"
-version = "0.1.0"
+version = "0.2.0"
 description = "Python package for functions that simplify the implementation of pipes and filters architecture design"
 readme = "README.md"
 requires-python = ">=3.7"
